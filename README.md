@@ -24,7 +24,6 @@ AI Edit Detector finds AI-edited areas in photos. It splits the image into regio
 3. Open:
    - Frontend: http://localhost:3000
    - Backend: http://localhost:8000
-   - Docs: http://localhost:8000/docs
 
 Without trained classifier weights, the app scores regions with noise analysis only.
 
