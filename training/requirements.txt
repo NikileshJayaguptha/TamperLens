@@ -1,0 +1,4 @@
+-r ../backend/requirements.txt
+# install torch + torchvision for your GPU from https://pytorch.org first
+scikit-learn>=1.4
+tqdm>=4.66

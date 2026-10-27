@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+models/*.pt
+models/*.pth
+training/prepared/
+frontend/node_modules/
+frontend/.next/
+frontend/next-env.d.ts
+.env
